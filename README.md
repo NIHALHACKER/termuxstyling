@@ -9,6 +9,9 @@ apt update
 apt upgrade 
 
 
+pkg install git 
+
+
 
 
 THANKS FOR NIHALHACKER
