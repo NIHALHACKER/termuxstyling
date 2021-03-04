@@ -14,12 +14,21 @@ pkg install git
 
 git clone https://github.com/NIHALHACKER/termuxstyling.git
 
+cd termuxstyling
+
 
 
 ls
 
 
 bash setup.sh
+
+HOW TO REMOVE 
+
+bash uninst.sh
+
+
+is Done
 
 
 
