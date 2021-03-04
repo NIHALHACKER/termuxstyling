@@ -12,6 +12,15 @@ apt upgrade
 pkg install git 
 
 
+git clone https://github.com/NIHALHACKER/termuxstyling.git
+
+
+
+ls
+
+
+bash setup.sh
+
 
 
 THANKS FOR NIHALHACKER
