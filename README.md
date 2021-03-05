@@ -2,6 +2,8 @@
 Termux Stayling Tool 
 This script will make your termux look better. Enjoy! !
 
+logo.png
+
 
 apt update 
 
