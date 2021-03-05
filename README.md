@@ -1,5 +1,5 @@
 # termuxstyling
-Termux Stayling Tool 
+Termux Styling Tool 
 This script will make your termux look better. Enjoy! !
 
 
