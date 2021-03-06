@@ -3,7 +3,7 @@ Termux Styling Tool
 This script will make your termux look better. Enjoy! !
 
 
-
+![logo](logo.png)
 
 apt update 
 
